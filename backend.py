@@ -1,0 +1,11 @@
+SIGN_IN = True
+
+USERS = {}
+
+ANSWER_INTERVAL = False
+
+USER_ANSWERS = {}
+
+ANSWERS = {}
+
+POINTS = {}
